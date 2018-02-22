@@ -7,8 +7,8 @@ I am a postdoctoral fellow at Northwestern University. I specialize in the field
 1. Microscopy
 2. Imaging
 3. Interference Lithography
-[Link](url) and ![Image](src)
-```
+
+markdown```
 ### Contact
 
 You may email me at manish.kumar(at)northwestern(dot)edu.
