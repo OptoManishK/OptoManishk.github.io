@@ -8,4 +8,4 @@ I am a postdoctoral fellow at Northwestern University. I specialize in the field
 2. Imaging
 3. Interference Lithography
 ```
-###[Contact](https://sites.google.com/view/optomanishk/contact-me)
+[Contact me](https://sites.google.com/view/optomanishk/contact-me)
