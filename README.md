@@ -7,4 +7,4 @@ Research Areas
 1. Optical Microscopy
 2. Optical Imaging
 ```
-Contact me: https://web.iitd.ac.in/~kmanish/#contact
+Contact me: [https://web.iitd.ac.in/~kmanish/#contact]
