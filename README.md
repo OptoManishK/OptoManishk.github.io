@@ -1,11 +1,10 @@
 ## Welcome to my Github page
 
-I am a postdoctoral fellow at Northwestern University. I specialize in the field of Optical Science. My current research focus is based on developing advanced light-sheet microscopes for biological imaging.
+I am an Assistant Professor at Indian Institute of Technology Delhi. I specialize in the field of Optical Science.
 
 ```markdown
 **Research Areas**
-1. Microscopy
-2. Imaging
-3. Interference Lithography
+1. Optical Microscopy
+2. Optical Imaging
 ```
-[Contact me](https://sites.google.com/view/optomanishk/contact-me)
+Contact me: https://web.iitd.ac.in/~kmanish/#contact
