@@ -3,7 +3,7 @@
 I am an Assistant Professor at Indian Institute of Technology Delhi. I specialize in the field of Optical Science.
 
 ```markdown
-**Research Areas**
+Research Areas
 1. Optical Microscopy
 2. Optical Imaging
 ```
